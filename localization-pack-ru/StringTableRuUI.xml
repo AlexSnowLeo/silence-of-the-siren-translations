@@ -128,7 +128,7 @@
       </GameDBLocalizedString>
       <GameDBLocalizedString>
         <LocID>END_TURN_LOC</LocID>
-        <Text>Закончить ход</Text>
+        <Text>Конец хода</Text>
       </GameDBLocalizedString>
       <GameDBLocalizedString>
         <LocID>EXIT_LOC</LocID>

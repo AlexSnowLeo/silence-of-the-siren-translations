@@ -60,7 +60,7 @@
       </GameDBLocalizedString>
       <GameDBLocalizedString>
         <LocID>TUTORIAL_01_RIGHT_PANEL_EXPLANATION</LocID>
-        <Text><![CDATA[В правой части экрана находится <color=SOTS_COLOR_GOLD>мини-карта</color>, <color=SOTS_COLOR_GOLD>список ваших баз</color>, <color=SOTS_COLOR_GOLD>список ваших командиров</color>, <color=SOTS_COLOR_GOLD>кнопки</color> для настройки <color=SOTS_COLOR_GOLD>скорости анимации</color> и <color=SOTS_COLOR_GOLD>панель времени с индексом фазы/цикла</color>.]]></Text>
+        <Text><![CDATA[В правой части экрана находится <color=SOTS_COLOR_GOLD>миникарта</color>, <color=SOTS_COLOR_GOLD>список ваших баз</color>, <color=SOTS_COLOR_GOLD>список ваших командиров</color>, <color=SOTS_COLOR_GOLD>кнопки</color> для настройки <color=SOTS_COLOR_GOLD>скорости анимации</color> и <color=SOTS_COLOR_GOLD>панель времени с индексом фазы/цикла</color>.]]></Text>
       </GameDBLocalizedString>
       <GameDBLocalizedString>
         <LocID>TUTORIAL_01_CHEST_HOARD</LocID>
@@ -156,7 +156,7 @@
       </GameDBLocalizedString>
       <GameDBLocalizedString>
         <LocID>TUTORIAL_01_BASE_LIST_AND_MINIMAP</LocID>
-        <Text><![CDATA[<color=SOTS_COLOR_GOLD>Мини-карта</color> показывает расположение этой базы на карте мира.\n<color=SOTS_COLOR_GOLD>Список</color> ниже позволяет быстро переключаться между базами, когда под вашим контролем находится несколько из них.]]></Text>
+        <Text><![CDATA[<color=SOTS_COLOR_GOLD>Миникарта</color> показывает расположение этой базы на карте мира.\n<color=SOTS_COLOR_GOLD>Список</color> ниже позволяет быстро переключаться между базами, когда под вашим контролем находится несколько из них.]]></Text>
       </GameDBLocalizedString>
       <GameDBLocalizedString>
         <LocID>TUTORIAL_01_BASE_BASE_DETAILS</LocID>
